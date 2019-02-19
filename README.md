@@ -1,4 +1,7 @@
 # ssr_l2tp
+
+sudo wget https://dwz.cn/ERpr9sjT && sudo sh ssr_l2tp.sh
+
 https://github.com/ToyoDAdoubi/doubi
 
 ssr.sh
